@@ -1,0 +1,15 @@
+Nosso cronograma será dividido em etapas simples.
+
+Mateus Cavalheiro será o responsável por criar o repositório no GitHub e adicionar o resto do grupo.
+
+Em seguida, cada um criará sua própria branch: uma para planejamento, outra para desenvolvimento e uma para a conclusão.
+
+Pedro ficará responsável por escrever a parte do planejamento.
+
+Matheus Guerini ficará com a parte do desenvolvimento.
+
+Matheus Cavalheiro ficará com a parte da conclusão.
+
+Depois disso, todos abrirão pull requests, revisarão o trabalho uns dos outros e aprovarão.
+
+Por fim, o Pedro  criará o arquivo README e lançará a versão final com o nome "v1.0 - Diário de Bordo".
