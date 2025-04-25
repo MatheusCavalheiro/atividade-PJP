@@ -1,6 +1,0 @@
-Primeiro
-    Separamos o grupo
-    Semparamos o que cada um vai fazer
-        Pedro ficou com a parte do planejamento
-        Guerini ficou com a parte do desenvolvimento
-        Cavalheiro ficou com a parte da conclusão

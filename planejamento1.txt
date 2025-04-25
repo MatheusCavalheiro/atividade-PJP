@@ -1,0 +1,5 @@
+RRecebemos a tarefa com o objetivo principal de exercitar o trabalho usando Git e GitHub.
+O projeto consiste em criar uma interface básica com um campo de entrada de texto, um botão e a exibição do texto digitado pelo usuário.
+Também vamos colocar uma verificação para não permitir enviar o campo vazio e, depois de mostrar o texto, o input será limpo automaticamente.
+O foco é mais no uso do Git e na colaboração em grupo do que no sistema em si.
+Vamos trabalhar em equipe com divisão de tarefas, cada um em uma branch, fazendo commits bem explicados, revisando o trabalho dos colegas com pull requests e resolvendo conflitos juntos se for necessário.
