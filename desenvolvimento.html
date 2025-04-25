@@ -5,7 +5,12 @@
 <script>
   function mostrarTexto() {
     const input = document.getElementById("meuInput");
-    const valor = input.value;
+    const valor = input.value.trim();
+    if (valor === "") {
+      alert("Digite algo");
+      return;
+    }
     document.getElementById("saidaTexto").innerText = valor;
+    input.value = "";
   }
 </script>
