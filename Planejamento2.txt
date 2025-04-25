@@ -1,0 +1,5 @@
+Utilizaremos algumas ferramentas fundamentais ao longo do desenvolvimento.
+O controle de versão será feito com Git, garantindo rastreamento e histórico de todas as mudanças.
+O repositório ficará no GitHub, liberando o trabalho colaborativo.
+O código será escrito utilizando HTML e JavaScript.
+Como editor de código vai sero Visual Studio Code
